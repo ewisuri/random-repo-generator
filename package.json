@@ -1,0 +1,23 @@
+{
+  "name": "repo-generator",
+  "version": "0.0.1",
+  "description": "Generates random repository history",
+  "main": "dist/index.js",
+  "author": "ewisuri@gmail.com",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "start": "tsc && node dist/index.js"
+  },
+  "dependencies": {
+    "lorem-ipsum": "^2.0.3",
+    "simple-git": "^1.113.0",
+    "source-map-support": "^0.5.12",
+    "yargs": "^13.2.4"
+  },
+  "devDependencies": {
+    "@types/node": "^10.14.9",
+    "@types/yargs": "^13.0.0",
+    "typescript": "^3.5.1"
+  }
+}

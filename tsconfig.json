@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "esModuleInterop": true,
+    "outDir": "dist",
+    "module": "commonjs",
+    "sourceMap": true
+  },
+  "include": [
+    "src/**/*"
+  ]
+}
