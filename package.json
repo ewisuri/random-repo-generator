@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "lorem-ipsum": "^2.0.3",
-    "simple-git": "^1.113.0",
+    "simple-git": "^3.5.0",
     "source-map-support": "^0.5.12",
     "yargs": "^13.2.4"
   },
